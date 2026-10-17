@@ -27,6 +27,8 @@ dist/
 *.gguf
 research/outputs/
 research/data/
+research/**/outputs/
+research/**/eval_runs/
 
 # Notebooks
 .ipynb_checkpoints/

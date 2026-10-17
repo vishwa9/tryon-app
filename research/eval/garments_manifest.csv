@@ -1,0 +1,21 @@
+garment_id,category,difficulty,front_file,back_file,include_arms,notes
+g01,tshirt,simple,g01_front.jpg,g01_back.jpg,no,plain tee - bright colour (e.g. red)
+g02,tshirt,simple,g02_front.jpg,g02_back.jpg,no,plain tee - white (hardest colour on a light backdrop)
+g03,tshirt,simple,g03_front.jpg,g03_back.jpg,no,plain tee - black or navy
+g04,shirt,simple,g04_front.jpg,g04_back.jpg,yes,plain full-sleeve button-down shirt
+g05,shirt,simple,g05_front.jpg,g05_back.jpg,no,plain half-sleeve shirt
+g06,kurta,simple,g06_front.jpg,g06_back.jpg,yes,plain cotton kurta
+g07,kurta,simple,g07_front.jpg,g07_back.jpg,yes,plain kurta - different colour and length
+g08,top,simple,g08_front.jpg,g08_back.jpg,no,plain polo or henley
+g09,tshirt,medium,g09_front.jpg,g09_back.jpg,no,tee with a large chest logo or text
+g10,tshirt,medium,g10_front.jpg,g10_back.jpg,no,tee with a small logo + back print
+g11,shirt,medium,g11_front.jpg,g11_back.jpg,yes,striped shirt
+g12,shirt,medium,g12_front.jpg,g12_back.jpg,yes,checked / plaid shirt
+g13,kurta,medium,g13_front.jpg,g13_back.jpg,yes,printed kurta
+g14,sleeveless,medium,g14_front.jpg,g14_back.jpg,no,sleeveless top or vest
+g15,shirt,hard,g15_front.jpg,g15_back.jpg,yes,all-over print shirt
+g16,kurta,hard,g16_front.jpg,g16_back.jpg,yes,embroidered or sequinned kurta
+g17,jacket,hard,g17_front.jpg,g17_back.jpg,yes,denim or bomber jacket
+g18,jeans,hard,g18_front.jpg,g18_back.jpg,no,jeans (lower-body mask)
+g19,trousers,hard,g19_front.jpg,g19_back.jpg,no,chinos or formal trousers
+g20,tshirt,hard,g20_front.jpg,,no,oversized tee - no back photo on purpose (tests NO_BACK_PHOTO)
