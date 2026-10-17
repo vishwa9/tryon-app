@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Model weights & generated images (stored in R2 / HF, never in git)
+*.safetensors
+*.ckpt
+*.gguf
+research/outputs/
+research/data/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
